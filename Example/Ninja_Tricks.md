@@ -16,6 +16,15 @@ Gems can also be stolen from other players by successfully damaging them to a ce
 There can only be a certain set of tools and jutsus equipped by a ninja at a given time, this allows for varied gameplay.
 Additionally, based on the level of your ninja (experience gained by winning games), you can equip certain additional abilities as well - less affected by crowd control, faster movement when losing, higher chance of crit damage, etc.
 
+# Photos and explanations
+
+- [Gameplay Video](https://www.youtube.com/watch?v=G-50LIjBQVg)
+    - This is an example of the entire game being played. This is 2v2 players which could also be implemented. There are many things to be noted here, bottom right corner shows which teams has which gems and also a mini map that shows where the players are and how many gems they're carrying. Bottom left has your abilities, health bar and mana (jutsu power). Top right has a summary of every players basic stats, health and mana. Top left has a chat system. The game looks very laggy and not too exciting right now but it really was when I was playing it (plus we can always improve it).
+- [In game screenshot](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.playcomet.com%2Fwp-content%2Fuploads%2F2009%2F06%2Fl_ninjatrick_05.jpg&imgrefurl=http%3A%2F%2Fwww.playcomet.com%2Fcasual-games%2Fninjatrick.htm&tbnid=VVAMahAFw--L0M&vet=12ahUKEwjOisK_iqDxAhVCOq0KHY6RB4UQMygKegUIARCYAQ..i&docid=aXL88pOCDvAJ8M&w=622&h=496&q=ninja%20trick&ved=2ahUKEwjOisK_iqDxAhVCOq0KHY6RB4UQMygKegUIARCYAQ)
+    - Here you can see the items that may exist in a given room and also some ability being used.
+- [Lobby screenshot](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FB1P2GGA0Jqc%2Fhqdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB1P2GGA0Jqc&tbnid=3Ehw2WbBPxr0SM&vet=12ahUKEwjOisK_iqDxAhVCOq0KHY6RB4UQMygEegUIARCKAQ..i&docid=L16TXApaOeuOsM&w=480&h=360&q=ninja%20trick&ved=2ahUKEwjOisK_iqDxAhVCOq0KHY6RB4UQMygEegUIARCKAQ)
+    - Another attractive feature of the game was that you could hang in the lobby and interact with other players - chat, dance, show off, etc.
+
 # Story/Lore
 
 *Have to think about this but I'm going to spin something off the top*
