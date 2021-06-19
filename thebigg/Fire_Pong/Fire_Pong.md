@@ -6,7 +6,7 @@ Ping Pong on fire!
 
 # Gameplay(Mechanics, rules, etc)
 ![](../Images/Pong.jpg)
-It is classic ping pong, except that the ball is on fire.
+It is classic Pong, except that the ball is on fire.
 
 
 # Story/Lore
