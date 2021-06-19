@@ -1,5 +1,3 @@
-#Title
-
 ## :fire: Fire Pong :fire:
 
 # Summary
