@@ -2,7 +2,7 @@
 
 # Summary
 
-Ping Pong on fire!
+Pong on fire!
 
 # Gameplay(Mechanics, rules, etc)
 ![](../Images/Pong.jpg)
